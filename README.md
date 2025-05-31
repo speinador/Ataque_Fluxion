@@ -69,7 +69,7 @@ Podés verificar que el handshake fue capturado exitosamente antes de continuar.
 ##  🔓 Crackeo del Handshake WPA2 con Aircrack-ng
 Una vez capturado el archivo .cap, se puede usar Aircrack-ng para intentar descifrar la clave mediante diccionario.
 
-##  ▶️ Comando Básico
+###  ▶️ Comando Básico
 ```bash
 aircrack-ng -w /ruta/diccionario.txt -b [MAC_ROUTER] /ruta/handshake.cap
 ```
