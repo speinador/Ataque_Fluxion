@@ -104,3 +104,19 @@ aircrack-ng -w /usr/share/wordlists/rockyou.txt -b 00:11:22:33:44:55 /root/fluxi
 - [Aircrack-ng Docs](https://www.aircrack-ng.org/)
 - [Kali Linux Tools](https://www.kali.org/tools/)
 - [Wordlists para pruebas](https://github.com/danielmiessler/SecLists)
+  
+---
+
+## 🧑‍🏫 Autor
+
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+
+---
+
+## 📄 Licencia
+
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+
+---
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
